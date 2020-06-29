@@ -13,3 +13,6 @@ This wallet is a plaything, an experiment, don't use it for anything more than p
 
 To install, download the APK file to your phone and install it - you also have to enable third-party apps in your phone settings.
 
+![Screenshot](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/zECC%20Chilebob.png)
+
+
