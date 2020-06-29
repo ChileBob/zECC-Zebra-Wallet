@@ -5,11 +5,11 @@ Inspired by the NightHawk wallet (https://github.com/nighthawk-apps/nighthawk-wa
 
 NightHawk branded their wallet on the F-117 Stealth Fighter, I just happen to like Zebras more than aircraft.
 
-Electric Coin DOES NOT support this software, their wallet is example code for the world to play with.
-NightHawk DO NOT support their wallet.
-Guess what, I DO NOT support this wallet either!!
+- Electric Coin DO NOT support this software, their wallet is example code for the world to play with.
+- NightHawk DO NOT support their wallet.
+- Guess what? I DO NOT support this wallet!
 
-Its a plaything, an experiment, don't use it for anything more than pocket change you're prepared to lose forever.
+This wallet is a plaything, an experiment, don't use it for anything more than pocket change that you are prepared to lose forever.
 
 To install, download the APK file to your phone and install it - you also have to enable third-party apps in your phone settings.
 
