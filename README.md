@@ -3,16 +3,14 @@
 Welcome to my version of the Electric Coin Co wallet for Zcash (zECC)
 
 Its based on zECC Wallet (https://github.com/zcash/zcash-android-wallet) from Electric Coin Company.
-Inspired by NightHawk Wallet (https://github.com/nighthawk-apps/nighthawk-wallet-android)
+
+Inspired by NightHawk Wallet (https://github.com/nighthawk-apps/nighthawk-wallet-android) who are building a completely private wallet based on zECC.
 
 NightHawk branded their wallet on the F-117 Stealth Fighter, I just happen to like Zebras.
 
-This is a working wallet that only supports SHIELDED ZCASH transactions.
+This is a working wallet that only supports SHIELDED ZCASH transactions, differences between this and zECC wallet are mainly cosmetic (graphics, layout, etc) but I have plans for a few new things.
 
-If you don't know what a shielded transaction is, now is the perfect time to learn more about Zcash. 
-Its important, its the future and its the way these things should be done.
-
-Extremely Important :-
+This is extremely important :-
 - Electric Coin DO NOT support their wallet.
 - NightHawk Apps DO NOT support their wallet.
 - THIS WALLET IS NOT SUPPORTED !!!
@@ -26,7 +24,8 @@ To install, download the APK file to your phone and install it - you also have t
 Finally, don't forget :-
 
 - Use ENTIRELY AT YOUR OWN RISK
-- It may cause global warming, plague and economic catastrophe (all of which have happened recently)
+- This wallet may cause global warming, plague and economic catastrophe (all of which have happened recently)
+- Make a note of the backup phrases when you create a wallet, just in case it all goes horribly wrong.
 
 No zebras were harmed in the production of this app, none of the graphics contain real zebra skin.
 
