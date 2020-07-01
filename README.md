@@ -17,7 +17,7 @@ This is extremely important :-
 
 This wallet is a functioning plaything, an experiment, only use it for pocket change you're prepared to lose forever.
 
-To install, download the APK file to your phone and install it - you also have to enable third-party apps in your phone settings.
+To install, download the APK file to your phone and open it. You also have to enable third-party apps in your phone settings.
 
 ![Screenshot](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/zECC%20ChileBob.png)
 
@@ -27,8 +27,10 @@ Finally, don't forget :-
 - This wallet may cause global warming, plague and economic catastrophe (all of which have happened recently)
 - Make a note of the backup phrases when you create a wallet, just in case it all goes horribly wrong.
 
+If you feel the urge to buy me a beer, here's my z-address (no, it doesn't mean zebra address, although...)
+
+zs12lg7t89w776pv2fsrv399agnda2mxcapastnze88cjp3x7fm572y6n4mekhk5n3zq9d2kutsyhg
+
+
 No zebras were harmed in the production of this app, none of the graphics contain real zebra skin.
-
-
-
 
