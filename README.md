@@ -27,7 +27,9 @@ Finally, don't forget :-
 - This wallet may cause global warming, plague and economic catastrophe (all of which have happened recently)
 - Make a note of the backup phrases when you create a wallet, just in case it all goes horribly wrong.
 
-If you feel the urge to buy me a beer, here's my z-address (no, it doesn't mean zebra address, although...)
+If you feel the urge to buy me a beer, here's my z-address :-
+
+![Z-Addr](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/zaddr.png)
 
 zs12lg7t89w776pv2fsrv399agnda2mxcapastnze88cjp3x7fm572y6n4mekhk5n3zq9d2kutsyhg
 
