@@ -25,7 +25,7 @@ To install, download the APK file to your phone and install it - you also have t
 
 Finally, don't forget :-
 
-- Use this wallet at ENTIRELY AT YOUR OWN RISK
+- Use ENTIRELY AT YOUR OWN RISK
 - It may cause global warming, plague and economic catastrophe (all of which have happened recently)
 
 
