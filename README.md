@@ -28,8 +28,7 @@ Finally, don't forget :-
 - Use ENTIRELY AT YOUR OWN RISK
 - It may cause global warming, plague and economic catastrophe (all of which have happened recently)
 
-
-* No zebras were harmed in the production of this app, none of the graphics contain real zebra skin.
+# *No zebras were harmed in the production of this app, none of the graphics contain real zebra skin.
 
 
 
