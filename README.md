@@ -27,7 +27,11 @@ Finally, don't forget :-
 - This wallet may cause global warming, plague and economic catastrophe (all of which have happened recently)
 - Make a note of the backup phrases when you create a wallet, just in case it all goes horribly wrong.
 
-If you feel the urge to buy me a beer here's my z-address, you can also use this address to send encrypted Zcash memos to Twitter, Telegram, Reddit & Email (see https://www.reddit.com/r/GatewayXYZ/)
+If you feel the urge to buy me a beer here's my z-address :-
+
+
+
+You can also use this address to send encrypted Zcash memos to Twitter, Telegram, Reddit & Email (see https://www.reddit.com/r/GatewayXYZ/)
 
 ![Z-Addr](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/zaddr.png)
 
