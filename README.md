@@ -29,13 +29,12 @@ Finally, don't forget :-
 
 If you feel the urge to buy me a beer here's my z-address :-
 
+![Mobile](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/mobile.png)
 
 
-You can also use this address to send encrypted Zcash memos to Twitter, Telegram, Reddit & Email (see https://www.reddit.com/r/GatewayXYZ/)
+You can also use the address to send encrypted Zcash memos to Twitter, Telegram, Reddit & Email (see https://www.reddit.com/r/GatewayXYZ/)
 
 ![Z-Addr](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/zaddr.png)
-
-zs12lg7t89w776pv2fsrv399agnda2mxcapastnze88cjp3x7fm572y6n4mekhk5n3zq9d2kutsyhg
 
 
 No zebras were harmed in the production of this app, none of the graphics contain real zebra skin.
