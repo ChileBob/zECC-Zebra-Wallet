@@ -31,7 +31,6 @@ If you feel the urge to buy me a beer here's my z-address :-
 
 ![Mobile](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/mobile.png)
 
-
 You can also use the address to send encrypted Zcash memos to Twitter, Telegram, Reddit & Email (see https://www.reddit.com/r/GatewayXYZ/)
 
 ![Z-Addr](https://github.com/ChileBob/zECC-Zebra-Wallet/blob/master/zaddr.png)
