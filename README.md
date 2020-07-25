@@ -1,6 +1,14 @@
 # ChileBobs Zebra Wallet
 
-Welcome to my version of the Electric Coin Co wallet for Zcash (zECC)
+IMPORTANT !!! 
+
+I *highly* recommend that you use the NightHawk wallet instead of mine, they're doing an excellent job of tracking ECCs improvements and aadding new things.
+
+
+
+
+
+## Welcome to my version of the Electric Coin Co wallet for Zcash (zECC)
 
 Its based on zECC Wallet (https://github.com/zcash/zcash-android-wallet) from Electric Coin Company.
 
